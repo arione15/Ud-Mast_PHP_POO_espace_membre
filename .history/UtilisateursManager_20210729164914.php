@@ -1,0 +1,4 @@
+class UtilisateursManager{
+private $pdo;
+
+}
